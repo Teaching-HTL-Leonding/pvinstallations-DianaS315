@@ -1,4 +1,4 @@
-@host=http://localhost:5121
+@host=http://localhost:5081
 
 ###
 POST {{host}}/installations
